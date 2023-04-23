@@ -1,0 +1,1 @@
+Select P.Title, C.Title from Product P left join Category C on P.Categoty_ID = C.ID
